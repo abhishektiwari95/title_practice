@@ -1,0 +1,12 @@
+{
+   "github.codespaces.defaultExtensions": [
+    "GitHub.codespaces",                  // GitHub Codespaces
+    "GitHub.vscode-pull-request-github",  // GitHub Pull Requests and Issues
+    "vscode.git",                         // Git (built-in)
+    "vscode.github-authentication"        // GitHub Authentication
+],
+"json.schemas": [
+    
+]
+
+}
